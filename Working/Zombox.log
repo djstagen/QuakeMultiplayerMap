@@ -1,0 +1,83 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: Zombox.map
+Output file: Zombox.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+           54 faces
+            9 brushes
+            9 entities
+            2 unique texnames
+            6 texinfo
+
+Opened WAD: C:/QuakeDev/wads/id1.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+            9 brushes
+           22 planes
+---- CSGFaces ----
+           54 brushfaces
+           50 csgfaces
+           38 mergedfaces
+---- SolidBSP ----
+           74 split nodes
+           24 solid leafs
+           51 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+          167 leaffaces
+          163 nodefaces
+---- Portalize ----
+           51 vis leafs
+           51 vis clusters
+          115 vis portals
+---- FillOutside ----
+           44 outleafs
+---- MergeAll ----
+           22 mergefaces
+---- SolidBSP ----
+           15 split nodes
+           10 solid leafs
+            6 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+           66 leaffaces
+           50 nodefaces
+---- Portalize ----
+            6 vis leafs
+            6 vis clusters
+            7 vis portals
+---- Tjunc ----
+           50 world edges
+          172 edge points
+           36 edges added by tjunctions
+            0 faces added by tjunctions
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+Processing hull 2...
+---- WriteBSPFile ----
+Wrote Zombox.bsp
+           35 planes              700
+           66 vertexes            792
+           15 nodes               360
+            5 texinfo             200
+           50 faces              1000
+           44 clipnodes           352
+            7 leafs               196
+           66 marksurfaces        132
+          236 surfedges           944
+          119 edges               476
+            2 textures          10972
+              lightdata             0
+              visdata               0
+              entdata             571
+
+0.179 seconds elapsed
+Peak memory usage: 498512 (486.8k)
