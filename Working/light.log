@@ -25,7 +25,7 @@ Lighting Completed.
 lightdatasize: 2341
 0 switchable light styles (32 max)
 Writing HigherLower.bsp as BSP version 29
-0.081 seconds elapsed
+0.082 seconds elapsed
 
 stats:
 0.145489 lights tested, 0.126426 hits per sample point

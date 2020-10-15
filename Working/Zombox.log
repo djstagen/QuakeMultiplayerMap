@@ -10,7 +10,7 @@ Output file: Zombox.bsp
             2 unique texnames
             6 texinfo
 
-Opened WAD: C:/QuakeDev/wads/id1.wad
+*** WARNING 01: No valid WAD filenames in worldmodel
 Processing hull 0...
 ---- Brush_LoadEntity ----
             9 brushes
@@ -62,6 +62,8 @@ Processing hull 0...
 ---- GrowRegions ----
 Processing hull 1...
 Processing hull 2...
+*** WARNING 16: Texture afloor1_8 not found
+*** WARNING 16: Texture altar1_1 not found
 ---- WriteBSPFile ----
 Wrote Zombox.bsp
            35 planes              700
@@ -74,10 +76,10 @@ Wrote Zombox.bsp
            66 marksurfaces        132
           236 surfedges           944
           119 edges               476
-            2 textures          10972
+            2 textures             12
               lightdata             0
               visdata               0
               entdata             571
 
-0.179 seconds elapsed
-Peak memory usage: 498512 (486.8k)
+0.058 seconds elapsed
+Peak memory usage: 461800 (451.0k)
