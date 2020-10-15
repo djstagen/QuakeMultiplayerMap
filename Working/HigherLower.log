@@ -1,6 +1,6 @@
 ---- qbsp / ericw-tools v0.18.1 ----
-Input file: NewTestingArea.map
-Output file: NewTestingArea.bsp
+Input file: HigherLower.map
+Output file: HigherLower.bsp
 
 ---- LoadMapFile ----
 *** WARNING 05: No info_player_start entity in level
@@ -36,7 +36,7 @@ Processing hull 0...
           159 vis portals
 ---- FillOutside ----
 *** WARNING 10: Reached occupant at (220 52 108), no filling performed.
-Leak file written to NewTestingArea.pts
+Leak file written to HigherLower.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
@@ -44,7 +44,7 @@ Processing hull 1...
 Processing hull 2...
 *** WARNING 10: Reached occupant at (220 -116 108), no filling performed.
 ---- WriteBSPFile ----
-Wrote NewTestingArea.bsp
+Wrote HigherLower.bsp
            81 planes             1620
           276 vertexes           3312
            68 nodes              1632
@@ -60,5 +60,5 @@ Wrote NewTestingArea.bsp
               visdata               0
               entdata             400
 
-0.051 seconds elapsed
+0.053 seconds elapsed
 Peak memory usage: 944366 (0.9M)
