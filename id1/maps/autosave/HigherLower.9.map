@@ -1521,7 +1521,7 @@
 ( -1104 -1152 208 ) ( -1104 -1151 208 ) ( -1104 -1152 209 ) 128_grey_1 32 -64 0 1 1
 ( -1056 -1152 208 ) ( -1056 -1152 209 ) ( -1055 -1152 208 ) 128_grey_1 16 -64 0 1 1
 ( -1056 -1152 208 ) ( -1055 -1152 208 ) ( -1056 -1151 208 ) 128_grey_1 16 -32 0 1 1
-( -1040 -1136 336 ) ( -1040 -1135 336 ) ( -1039 -1136 336 ) 128_grey_1 16 -32 0 1 1
+( -1040 -1136 320 ) ( -1040 -1135 320 ) ( -1039 -1136 320 ) 128_grey_1 16 -32 0 1 1
 ( -1040 -928 352 ) ( -1039 -928 352 ) ( -1040 -928 353 ) 128_grey_1 16 -64 0 1 1
 ( -1040 -1136 352 ) ( -1040 -1136 353 ) ( -1040 -1135 352 ) 128_grey_1 32 -64 0 1 1
 }
@@ -1906,39 +1906,4 @@
 {
 "classname" "info_player_deathmatch"
 "origin" "-1072 416 232"
-}
-// entity 17
-{
-"classname" "info_player_deathmatch"
-"origin" "-384 384 232"
-}
-// entity 18
-{
-"classname" "info_player_deathmatch"
-"origin" "512 160 40"
-"angle" "165"
-}
-// entity 19
-{
-"classname" "info_player_deathmatch"
-"origin" "512 432 40"
-"angle" "180"
-}
-// entity 20
-{
-"classname" "info_player_deathmatch"
-"origin" "256 -64 40"
-"angle" "210"
-}
-// entity 21
-{
-"classname" "info_player_deathmatch"
-"origin" "-928 -352 232"
-"angle" "75"
-}
-// entity 22
-{
-"classname" "info_player_deathmatch"
-"origin" "-784 -816 232"
-"angle" "240"
 }
